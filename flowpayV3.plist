@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>corp.21cn.flowpay</string>
+				<string>com.21cn.flowpay.fixios8</string>
 				<key>bundle-version</key>
 				<string>3.1.8</string>
 				<key>kind</key>
